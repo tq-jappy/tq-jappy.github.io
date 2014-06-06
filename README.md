@@ -1,4 +1,4 @@
 tq-jappy.github.io
 ==================
 
-My Page
+http://tq-jappy.github.io/
